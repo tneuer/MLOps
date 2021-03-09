@@ -1,0 +1,788 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"crea",
+				"create_from_file\tfunction"
+			],
+			[
+				"a",
+				"add\tfunction"
+			],
+			[
+				"prop",
+				"proportion_is_legendary\tstatement"
+			],
+			[
+				"tra",
+				"train_data\tstatement"
+			],
+			[
+				"dart",
+				"darts_VARMA\tstatement"
+			],
+			[
+				"tim",
+				"TimeSeries"
+			],
+			[
+				"pd_ser",
+				"pd_series4\tstatement"
+			],
+			[
+				"serie",
+				"series3\tstatement"
+			],
+			[
+				"test",
+				"test_gaps\tfunction"
+			],
+			[
+				"Time",
+				"TimeSeries"
+			],
+			[
+				"Da",
+				"DartsBaseTestClass\tmodule"
+			],
+			[
+				"gap",
+				"gap_ends\tstatement"
+			],
+			[
+				"state",
+				"statespace_pred\tstatement"
+			],
+			[
+				"statespa",
+				"statespace_fitted\tstatement"
+			],
+			[
+				"varm",
+				"varmax_statespace\tstatement"
+			],
+			[
+				"fore",
+				"forecast_input"
+			],
+			[
+				"train",
+				"train_data\tstatement"
+			],
+			[
+				"api_",
+				"api_pred\tstatement"
+			],
+			[
+				"test_",
+				"test_data\tstatement"
+			],
+			[
+				"pass",
+				"passenger\tstatement"
+			],
+			[
+				"gap_start",
+				"gap_starts\tstatement"
+			],
+			[
+				"gap_",
+				"gap_starts\tstatement"
+			],
+			[
+				"data",
+				"data_ts\tstatement"
+			],
+			[
+				"nr_t",
+				"nr_train\tstatement"
+			],
+			[
+				"darts",
+				"darts_arima\tstatement"
+			],
+			[
+				"Pas",
+				"passengers"
+			],
+			[
+				"plt",
+				"pyplot"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "predict.py",
+			"settings":
+			{
+				"buffer_size": 1028,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 199,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dr_python_client.sublime-project",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"revie",
+				"TodoReview: Project Files"
+			],
+			[
+				"term",
+				"Terminal: Open in project folder"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"conda",
+				"Conda: Activate Environment"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"conda ",
+				"Conda: Activate Environment"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/tneuer/Documents/unit8/cx/MLOps/DataRobot/PythonClient"
+	],
+	"file_history":
+	[
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/tneuer/Documents/unit8/cx/Darts/darts/README.md",
+		"/Users/tneuer/Documents/Testing/el_test.py",
+		"/Users/tneuer/Documents/Testing/test/test_calculator.py",
+		"/Users/tneuer/Documents/Testing/testing.sublime-project",
+		"/Users/tneuer/Documents/Testing/test/__init__.py",
+		"/Users/tneuer/Documents/Testing/__init__.py",
+		"/Users/tneuer/Documents/Testing/src/__init__.py",
+		"/Users/tneuer/Documents/Testing/src/calculator.py",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/CodeFormatter/Default (OSX).sublime-keymap",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/TodoReview/Default.sublime-keymap",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/TodoReview/TodoReview.sublime-settings",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/TodoReview.sublime-settings",
+		"/Users/tneuer/Documents/Testing/.idea/Testing.iml",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/AutoDocstring/AutoDocstring.sublime-settings",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/AutoDocstring/Default (OSX).sublime-keymap",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/tneuer/Downloads/predict.py",
+		"/Users/tneuer/Documents/unit8/cx/Darts/darts/darts/models/arima.py",
+		"/Users/tneuer/Documents/unit8/cx/MLOps/DataRobot/custom-test.py",
+		"/Users/tneuer/darts-runs.yml",
+		"/Users/tneuer/Documents/unit8/cx/MLOps/DataRobot/cahnge_data.py",
+		"/Users/tneuer/Documents/unit8/cx/MyDarts/darts/varma_test.py",
+		"/Users/tneuer/Documents/unit8/cx/MyMLOps/DataRobot/test.py",
+		"/Users/tneuer/Documents/Test/TimeSeries/test_var.py",
+		"/Users/tneuer/Documents/unit8/cx/MyDarts/darts/darts/models/VAR.py",
+		"/Users/tneuer/Documents/unit8/cx/MyDarts/darts/darts/models/arima.py",
+		"/Users/tneuer/Documents/unit8/cx/MyDarts/darts/darts/timeseries.py",
+		"/Users/tneuer/Documents/Test/TimeSeries/test_gaps.py",
+		"/Users/tneuer/Documents/unit8/cx/MyDarts/darts/darts/models/test_var.py",
+		"/Users/tneuer/Documents/Test/TimeSeries/test_gaps_minimal.py",
+		"/Users/tneuer/Documents/Test/TimeSeries/test_arima.py",
+		"/Users/tneuer/Documents/Test/Sorting/README.md",
+		"/Users/tneuer/Documents/Test/test.py",
+		"/Users/tneuer/Documents/unit8/BD/CashFlow/example_analysis.py",
+		"/Users/tneuer/Documents/unit8/BD/CashFlow/example_data.csv",
+		"/Users/tneuer/Documents/unit8/cx/Darts/test_darts.py",
+		"/Users/tneuer/Documents/unit8/cx/Darts/MockData/passengers.csv",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/Plain text.sublime-settings"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "predict.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								495
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										495,
+										496
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/single_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										460,
+										461
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/tneuer/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 199,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										196,
+										197
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										143,
+										144
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "dr_python_client.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										233,
+										234
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										25,
+										26
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Sublime).sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 236.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "datarobot",
+	"project": "dr_python_client.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"calc",
+				"test/test_calculator.py"
+			],
+			[
+				"",
+				"src/calculator.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 390.0,
+		"last_filter": "add",
+		"selected_items":
+		[
+			[
+				"add",
+				"add"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
